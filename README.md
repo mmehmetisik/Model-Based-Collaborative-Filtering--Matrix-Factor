@@ -13,7 +13,7 @@
       - rating = Rating given to the film by the user
       - timestamp = Evaluation date
 # Road Map
-1- Preparation of Data Set
-2- Modelling
-3- Model Tuning
-4- Final Model and Forecast
+- 1- Preparation of Data Set
+- 2- Modelling
+- 3- Model Tuning
+- 4- Final Model and Forecast
